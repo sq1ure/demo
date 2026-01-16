@@ -1,0 +1,13 @@
+.button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  background-color: #3b82f6; /* blue-500 */
+  color: white;
+  font-weight: 500;
+}
+
+/* ===== Custom styles injected later (e.g. from backend) ===== */
+.button {
+  background-color: #16a34a; /* green-600 */
+  border-radius: 9999px;
+}
